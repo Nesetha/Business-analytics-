@@ -1,13 +1,18 @@
-# Credit Risk Analysis
-This project analyzes customer credit data to identify patterns leading to default.
+Business Analytics Projects
+This repository showcases projects focused on solving business problems using data analysis, KPI tracking, and dashboard visualization.
 
-## Tools Used
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Tableau
+Credit Risk Analysis
+- Analyzed customer data to identify factors influencing credit default  
+- Defined KPIs: Total Customers, Defaulters, Default Rate  
+- Key Insight: Payment delays are the strongest predictor of default  
+- Tools: Python, Tableau  
 
-## Key Insights
-- Higher default rates observed in customers with delayed payments
-- Credit limit and payment history are strong predictors
+Employee Performance & Attrition Analysis
+- Evaluated employee data to analyze performance and attrition trends  
+- Defined KPIs: Attrition Rate, Avg Performance, Workforce Distribution  
+- Key Insight: Attrition varies across departments and is influenced by performance and salary  
+- Tools: Power BI  
 
-## Outcome
-This project helps in understanding risk patterns and supports better credit risk decision-making.
+Skills Demonstrated
+Data Analysis • KPI Reporting • Dashboard Development • Business Insights  
+
